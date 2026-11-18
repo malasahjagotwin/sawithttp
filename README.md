@@ -82,10 +82,8 @@ func main() {
 ```
 sawithttp        HTTP/1.1 client, transport, server
 sawithttp/http2  HTTP/2 transport and server
-sawithttp/h2c    h2c (HTTP/2 cleartext)
 sawithttp/cgi    CGI handler
 sawithttp/fcgi   FastCGI handler
-sawithttp/hpack  HPACK
 sawithttp/cookiejar
 ```
 
