@@ -5,7 +5,7 @@ go 1.24
 toolchain go1.24.3
 
 require (
-	github.com/malasahjagotwin/sawitls v0.0.0-20261118192635-70d5168b70e8
+	github.com/malasahjagotwin/sawitls v0.0.0-20261118192907-5d8481d060e8
 	github.com/andybalholm/brotli v1.1.1
 	github.com/klauspost/compress v1.18.0
 	golang.org/x/net v0.39.0
